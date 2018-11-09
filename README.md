@@ -7,6 +7,7 @@
 - [KotlinConf 2018 - Representing State: the Kotlin Edition by Christina Lee](https://www.youtube.com/watch?v=-lVVfxsRjcY)
 - [Managing State with RxJava by Jake Wharton](https://www.youtube.com/watch?v=0IKHxjkgop4)
 - [Single Activity: Why, When, and How (Android Dev Summit '18)](https://www.youtube.com/watch?v=2k8x8V77CrU)
+- [Deep Dive into the ART Runtime (Android Dev Summit '18)](https://www.youtube.com/watch?v=vU7Rhcl9x5o)
 
 ## Misc
 - [Google I/O 2009 - The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
