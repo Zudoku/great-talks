@@ -15,3 +15,4 @@
 - [Google I/O 2009 - The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [Aalto Talk with Linus Torvalds](https://www.youtube.com/watch?v=MShbP3OpASA)
 - [How Facebook tracks you on Android, 2018-12-29](https://media.ccc.de/v/35c3-9941-how_facebook_tracks_you_on_android)
+- [Code Review Best Practices](https://www.youtube.com/watch?v=a9_0UUUNt-Y)
