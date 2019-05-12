@@ -10,6 +10,7 @@
 - [Deep Dive into the ART Runtime (Android Dev Summit '18)](https://www.youtube.com/watch?v=vU7Rhcl9x5o)
 - [What's New With The Android Gradle Plugin (Android Dev Summit '18)](https://www.youtube.com/watch?v=GlwvVJNWlWg)
 - [Droidcon SF 2016 - Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ)
+- [Understand Kotlin Coroutines on Android (Google I/O'19)](https://www.youtube.com/watch?v=BOHK_w09pVA)
 
 ## Misc
 - [Google I/O 2009 - The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
